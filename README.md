@@ -1,0 +1,1 @@
+# Qur-an-QA-2022-Shared-Task-Code
